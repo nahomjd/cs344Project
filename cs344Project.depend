@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1491547944 source:d:\cs344\cs344project\main.cpp
+	<iostream>
+	<stdlib.h>
+	<algorithm>
+	"The_h_File.h"
+
+1491541377 d:\cs344\cs344project\the_h_file.h
+	<iostream>
+	<stdlib.h>
+	<algorithm>
+
